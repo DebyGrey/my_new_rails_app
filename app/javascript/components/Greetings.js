@@ -17,6 +17,7 @@ function Greeting() {
   return (
     <div>
       <h1>Random Greeting:</h1>
+     
       <p>{greetingMsg}</p>
     </div>
   );
