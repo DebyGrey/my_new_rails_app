@@ -134,7 +134,7 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Vahe Stepanyan**
+👤 **Deborah Fashoro**
 
 - GitHub: [@githubhandle](https://github.com/DebyGrey)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/deborah-fashoro/)
